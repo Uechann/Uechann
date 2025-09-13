@@ -71,60 +71,10 @@ const developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=Uechann&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4"/>
 </div>
 
-## 🐍 Contribution Graph
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Uechann/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-</div>
-
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Uechann&theme=tokyo-night"/>
-</div>
-
-## 🎯 Current Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🚀 **Awesome Web App** | A full-stack web application with modern UI | React, Node.js, MongoDB | 🚧 In Progress |
-| 🎮 **Fun Game Project** | Interactive web game with real-time features | JavaScript, Socket.io, Express | ✅ Completed |
-| 📱 **Mobile App** | Cross-platform mobile application | React Native, Firebase | 🎯 Planning |
-
-</div>
-
-## 🌟 Featured Repositories
-
-<div align="center">
-  <a href="https://github.com/Uechann/REPO_NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Uechann/ANOTHER_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=ANOTHER_REPO&theme=tokyonight" />
-  </a>
-</div>
-
 ## 🎨 Skills Visualization
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,docker,aws,mongodb,postgres,git,vscode&perline=6" />
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cab0703607@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/xmx_ychan)
-
-</div>
-
-## 💡 Daily Motivation
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ## 👀 Profile Views
